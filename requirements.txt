@@ -1,0 +1,8 @@
+Flask==2.0.1
+joblib==1.0.1
+numpy==1.19.5
+pandas==1.2.5
+keras_nightly==2.5.0.dev2021032900
+xgboost==1.4.2
+tensorflow==2.5.0
+keras==2.4.3
